@@ -10,7 +10,7 @@ description: E-commerce made easy
 about: A simple e-commerce Jekyll theme for simple products.
 about-footer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.
 main-image: /assets/images/dragonfruit-ecommerce-jekyll-theme.png
-url: https://dragonfruit.jekyll-themes.com
+url: http://monse.asesoreducativo.mx
 
 # Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
 logo: /assets/images/dragon-fruit.svg
