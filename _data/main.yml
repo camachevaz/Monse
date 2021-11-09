@@ -68,8 +68,8 @@ analytics: UA-92266803-4
 
 # This applies to all products
 currency: '$'
-cart-popup: true #set it to false if you do not want to see the popup showing added product in the cart
-floating-cart: true # shows number of items in the cart in a floating button in phones
+cart-popup: false
+floating-cart: false
 
 
 # Sign up with SnipCart and go to https://app.snipcart.com/dashboard/account/credentials to find your API
@@ -80,4 +80,4 @@ crisp-chat-website-id: b8652974-7163-4c3a-a8aa-7ae46da8d460
 
 
 # Remove the lines below
-buy-button: true
+buy-button: false
