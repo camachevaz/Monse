@@ -5,10 +5,10 @@
 # after a restart or rebuild of the site          #
 ###################################################
 
-title: Dragon Fruit
-description: E-commerce made easy
-about: A simple e-commerce Jekyll theme for simple products.
-about-footer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.
+title: Maestra Monse
+description: Haz fácil lo difícil
+about: Especialista en todos los temas relacionados a la educación primaria
+about-footer: Todo lo que necesitas para lgrar el éxito dede 1ero hasta 6to de primaria.
 main-image: /assets/images/dragonfruit-ecommerce-jekyll-theme.png
 url: http://monse.asesoreducativo.mx
 
@@ -23,21 +23,21 @@ instagram: https://instagram.com
 email: hello@email.com
 
 menu:
-  - title: Home
-    link: '#page-top'
+  - title: Inicio
+    link: '#inicio'
     page: /
 
-  - title: Products
-    link: '#products'
-    page: /products/
+  - title: Servicios
+    link: '#servicios'
+    page: /servicios/
 
-  - title: Features
-    link: '#features'
-    page: '/#features'
+  - title: Mi promesa
+    link: '#promesa'
+    page: '/#promesa'
 
-  - title: Contact
-    link: '#contact'
-    page: '/#contact'
+  - title: Contacto
+    link: '#contacto'
+    page: '/#contacto'
 
 
 
@@ -46,29 +46,21 @@ menu:
 # For complete customization, go to _includes/footer.html
 
 quick-links:
-  - title: Home
+  - title: Inicio
     link: /
 
-  - title: Products
-    link: /products/
+  - title: Servicios
+    link: /servicios/
 
-  - title: Documentation
-    link: 'https://docs.jekyll-themes.com/docs/dragon-fruit/'
-
-  - title: Contact
-    link: 'mailto:hello@ekyll-themes.com'
+  - title: Contacto
+    link: 'mailto:sarahy@asesoreducativo.mx'
 
 
 payment-footer:
-  title: Payment
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  icons: true
-  support-button:
-    link: hello@webjeda.com
-  documentation-button:
-    link: https://docs.jekyll-themes.com/docs/dragon-fruit/
+  title: Formas de pago
+  description: Agenda en línea con seguridad
 
-copyright: ' | Powered by <a href="https://snipcart.com/" target="_blank">Snipcart</a>'
+copyright: ' | Basado en <a href="https://snipcart.com/" target="_blank">Snipcart</a>'
 
 
 # Analytics
