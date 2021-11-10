@@ -13,7 +13,7 @@ main-image: /assets/images/logo.png
 url: http://monse.asesoreducativo.mx
 
 # Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
-logo: /assets/images/dragon-fruit.svg
+logo: /assets/images/favicon-32x32.png
 logo-height: 25
 
 # Social media links
