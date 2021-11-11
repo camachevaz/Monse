@@ -1,6 +1,6 @@
 - id: 1
   title: Asesoría
-  description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.<br>sesión de 60 minutos
+  description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.<br><br>sesión de 60 minutos
   image: /assets/images/cappuccino.jpg
   price: 300
   weight: 0
