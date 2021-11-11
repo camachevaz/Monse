@@ -1,11 +1,11 @@
 - id: 1
-  title: Cappuccino
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  title: Asesoría
+  description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.<br>sesión de 60 minutos
   image: /assets/images/cappuccino.jpg
-  price: 2.99
-  weight: 100
-  maximum-quantity: 10
-  category: coffee
+  price: 300
+  weight: 0
+  maximum-quantity: 0
+  category: Educación básica
 #  url: https://dragonfruit.jekyll-themes.com #URL of the page where the product is present
 
 - id: 2
