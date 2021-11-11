@@ -1,39 +1,35 @@
 - id: 1
   title: Asesoría
-  description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.<br><br>Sesión de 60 minutos.
+  description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.
   image: /assets/images/asesoria.jpg
   price: 300
-  weight: 0
-  maximum-quantity: 0
+  duracion: Sesión de 60 minutos
   category: Educación básica
 #  url: https://dragonfruit.jekyll-themes.com #URL of the page where the product is present
 
 - id: 2
   title: Clases particulares
-  description: Explicación y práctica, resolver dudas sobre algún tema relacionado con las asignaturas de primaria (español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética).<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.<br><br>3 Sesiones de 60 minutos.
+  description: Explicación y práctica, resolver dudas sobre algún tema relacionado con las asignaturas de primaria (español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética).<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.
   image: /assets/images/particulares.jpg
   price: 750
-  weight: 0
-  maximum-quantity: 0
+  duracion: 3 sesiones de 60 minutos
   category: Educación básica
 
 
 - id: 3
   title: Talleres
-  description: Explicación y práctica de temas de forma dinámica diseñada para grupos.<br><br>Temas relacionados con las asignaturas de español y matemáticas, con el objetivo de que los estudiantes logren las competencias y aprendizajes esperados según su grado.<br><br>5 sesiones de 1 hora.
+  description: Explicación y práctica de temas de forma dinámica diseñada para grupos.<br><br>Temas relacionados con las asignaturas de español y matemáticas, con el objetivo de que los estudiantes logren las competencias y aprendizajes esperados según su grado.
   image: /assets/images/talleres.jpg
-  price: 2.59
-  weight: 100
-  maximum-quantity: 3
+  price: 2000
+  duracion: 5 sesiones de 60 minutos
   category: Educación básica
 
 - id: 4
   title: Curso de preparación para ingreso a primaria
-  description: Enseñanza de los conocimientos básicos para ingresar a educación primaria desde 3ro de preescolar.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para el manejo de los aprendizajes requeridos para ingresar a 1ro de primaria.<br><br>Sesión de 90 minutos.
+  description: Enseñanza de los conocimientos básicos para ingresar a educación primaria desde 3ro de preescolar.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para el manejo de los aprendizajes requeridos para ingresar a 1ro de primaria.
   image: /assets/images/curso-ingreso-primaria.jpg
   price: 350
-  weight: 0
-  maximum-quantity: 0
+  duracion: Sesión de 90 minutos
   category: Cursos
 
 - id: 5
@@ -41,34 +37,30 @@
   description: Enseñanza de la lengua de señas mexicana<br><br>Clases dinámicas con el propósito de comunicarse de forma básica con personas sordas.<br><br>Sesiones en línea de 2 horas
   image: /assets/images/curso-lsm.jpg
   price: 6000
-  weight: 0
-  maximum-quantity: 0
+  duracion: Sesión de 120 minutos
   category: Cursos
 
 - id: 6
   title: Evaluación anual general
-  description: Evaluación del grado escolar cursado para conocer los conocimientos previos y aprovechamiento obtenido.<br><br>Evaluación por ciclo escolar completo.
+  description: Evaluación en línea del grado escolar cursado para conocer los conocimientos previos y aprovechamiento obtenido.<br><br>Evaluación por ciclo escolar completo.
   image: /assets/images/evaluacion-anual.jpg
   price: 600
-  weight: 0
-  maximum-quantity: 0
+  duracion: Examen disponible durante 120 minutos
   category: Diagnósticos
 
 - id: 7
   title: Evaluación trimestral general
-  description: Evaluación de un trimestre de un grado escolar.<br><br>Se aplica sobre todas las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
+  description: Evaluación en línea de un trimestre de un grado escolar.<br><br>Se aplica sobre todas las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
   image: /assets/images/evaluacion-trimestral.jpg
   price: 600
-  weight: 0
-  maximum-quantity: 0
+  duracion: Examen disponible durante 120 minutos
   category: Diagnósticos
 
 - id: 8
   title: Evaluación por asignatura
-  description: Evaluación de una asignatura específica de un grado escolar en un trimestre.<br><br>Evaluación por ciclo escolar.<br><br>Se aplica sobre una de las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
+  description: Evaluación en línea de una asignatura específica de un grado escolar en un trimestre.<br><br>Evaluación por ciclo escolar.<br><br>Se aplica sobre una de las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
   image: /assets/images/evaluacion-asignatura.jpg
   price: 200
-  weight: 0
-  maximum-quantity: 0
+  duracion: Examen disponible durante 120 minutos
   category: Diagnósticos
 
