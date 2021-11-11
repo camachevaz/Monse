@@ -9,13 +9,13 @@
 #  url: https://dragonfruit.jekyll-themes.com #URL of the page where the product is present
 
 - id: 2
-  title: Espresso
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  title: Clases particulares
+  description: Explicación y práctica, resolver dudas sobre algún tema relacionado con las asignaturas de primaria: español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.<br><br>3 sesiones de 60 minutos
   image: /assets/images/espresso.jpg
-  price: 3.99
-  weight: 100
-  maximum-quantity: 5
-  category: coffee
+  price: 750
+  weight: 0
+  maximum-quantity: 0
+  category: Educación básica
 
 
 - id: 3
