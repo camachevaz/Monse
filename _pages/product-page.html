@@ -26,13 +26,12 @@ published: true
       <div class="product element-item col-md-4">
         <div class="card shadow border-0">
           <div class="card-title">
-            <p>{{item.category}}</p>
+            <p><strong>Categoría: </strong><span class="badge badge-primary">{{item.category}}</span></p>
           </div>
           <img src="{{item.image}}" alt="{{item.title}}" data-toggle="modal" data-target="#id-{{item.id}}">
           <div class="card-body" data-toggle="modal" data-target="#id-{{item.id}}">
               <h3 class="name">{{item.title}}</h3>
               <p>{{item.description}}</p>
-              <span class="category">{{item.category}}</span>
           </div>
           <div class="card-footer">
             <p><span class="price">{{site.data.main.currency}}{{item.price}}</span>
@@ -49,8 +48,7 @@ published: true
           <div class="modal-content">
             <img src="{{item.image}}" alt="{{item.title}}">
             <div class="modal-header">
-
-              <h5 class="modal-title" id="exampleModalLabel">{{item.title}}</h5>
+              <h3 class="modal-title" id="exampleModalLabel">{{item.title}}</h3>
             </div>
             <div class="modal-body">
                 <p>{{item.description}}</p>
@@ -60,16 +58,7 @@ published: true
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-sm btn-secondary" data-dismiss="modal">Cerrar</button>
-              <button
-                       class="snipcart-add-item btn btn-sm btn-success float-right"
-                       data-item-id="{{item.id}}"
-                       data-item-name="{{item.title}}"
-                       data-item-price="{{item.price}}"
-                       data-item-duracion="{{item.duracion}}"
-                       data-item-url="{{site.data.main.url}}{{page.url}}"
-                       data-item-description="{{item.description}}"
-                       >Agendar
-               </button>
+              <button class="snipcart-add-item btn btn-sm btn-success float-right" data-item-id="{{item.id}}" data-item-name="{{item.title}}" data-item-price="{{item.price}}" data-item-duracion="{{item.duracion}}" data-item-url="{{site.data.main.url}}{{page.url}}" data-item-description="{{item.description}}">Agendar</button>
             </div>
           </div>
         </div>
