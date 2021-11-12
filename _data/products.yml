@@ -58,7 +58,7 @@
 
 - id: 8
   title: Evaluación por asignatura
-  description: Evaluación en línea de una asignatura específica de un grado escolar en un trimestre.<br><br>Evaluación por ciclo escolar.<br><br>Se aplica sobre una de las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
+  description: Evaluación en línea de una asignatura específica de un grado escolar en un trimestre.<br><br>Se aplica sobre una de las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
   image: /assets/images/evaluacion-asignatura.jpg
   price: 200
   duracion: Examen disponible durante 120 minutos
