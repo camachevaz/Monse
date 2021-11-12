@@ -30,22 +30,13 @@ published: true
           </div>
           <img src="{{item.image}}" alt="{{item.title}}" data-toggle="modal" data-target="#id-{{item.id}}">
           <div class="card-body" data-toggle="modal" data-target="#id-{{item.id}}">
-              <h4 class="name">{{item.title}}</h4>
+              <h3 class="name">{{item.title}}</h3>
               <p>{{item.description}}</p>
               <span class="category">{{item.category}}</span>
           </div>
           <div class="card-footer">
             <p><span class="price">{{site.data.main.currency}}{{item.price}}</span>
-             <button
-                      class="snipcart-add-item btn btn-sm btn-primary float-right"
-                      data-item-id="{{item.id}}"
-                      data-item-name="{{item.title}}"
-                      data-item-price="{{item.price}}"
-                      data-item-duracion="{{item.duracion}}"
-                      data-item-url="{{site.data.main.url}}{{page.url}}"
-                      data-item-description="{{item.description}}"
-                      >Agendar
-              </button>
+             <button class="snipcart-add-item btn btn-sm btn-primary float-right" data-item-id="{{item.id}}" data-item-name="{{item.title}}" data-item-price="{{item.price}}" data-item-duracion="{{item.duracion}}" data-item-url="{{site.data.main.url}}{{page.url}}" data-item-description="{{item.description}}">Agendar</button>
             </p>
           </div>
         </div>
