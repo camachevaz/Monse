@@ -29,9 +29,9 @@ menu:
     link: '#servicios'
     page: /servicios/
 
-  - title: Mi promesa
-    link: '#promesa'
-    page: '/#promesa'
+  - title: Mi perfil
+    link: '#perfil'
+    page: '/#perfil'
 
   - title: Contacto
     link: '#contacto'
