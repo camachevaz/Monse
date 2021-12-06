@@ -5,9 +5,10 @@
     <a class="navbar-brand js-scroll-trigger" href="{% if page.type == 'home' %}#inicio{% else %}/{% endif %}">{% if site.data.main.title %}{{site.data.main.title}}{% endif %}
     {% if site.data.main.logo %}
       <span>
-        <picture class="img-fluid header-image">
+        <picture>
           <source type="image/avif" srcset="{{site.data.main.logo-avif}}">
           <img height="{{site.data.main.logo-height}}" src="{{site.data.main.logo}}" alt="{{site.data.main.title}}">
+        </picture>
       </span>{% endif %}
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
