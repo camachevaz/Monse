@@ -34,7 +34,11 @@
       <div class="modal fade" id="id-{{item.id}}" tabindex="-1" role="dialog" aria-labelledby="id-{{item.id}}" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
-            <img src="{{item.image}}" alt="{{item.title}}" />
+            <span>
+              <picture class="img-fluid header-image">
+                <source type="image/avif" srcset="{{item.image-avif}}">
+                <img src="{{item.image}}" alt="{{item.title}}" />
+              </picture>
             <div class="modal-header">
               <h5 class="modal-title" id="exampleModalLabel">{{item.title}}</h5>
             </div>
