@@ -10,7 +10,11 @@
       {% for item in site.data.products limit: 3 %}
       <div class="product col-md-4">
         <div class="card shadow border-0">
-          <img src="{{item.image}}" alt="{{item.title}}" data-toggle="modal" data-target="#id-{{item.id}}" />
+          <span>
+            <picture>
+              <source type="image/avif" srcset="{{item.image-avif}}">
+              <img src="{{item.image}}" alt="{{item.title}}" data-toggle="modal" data-target="#id-{{item.id}}" />
+            </picture>
           <div class="card-body" data-toggle="modal" data-target="#id-{{item.id}}">
             <h4>{{item.title}}</h4>
             <p>{{item.description | truncate: 80 }}</p>
