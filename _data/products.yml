@@ -2,6 +2,7 @@
   title: Asesoría
   description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.
   image: /assets/images/asesoria.jpg
+  image-avif: /assets/images/asesoria.avif
   price: 300
   duracion: Sesión de 60 minutos
   category: Educación básica
@@ -11,6 +12,7 @@
   title: Clases particulares
   description: Explicación y práctica, resolver dudas sobre algún tema relacionado con las asignaturas de primaria (español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética).<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.
   image: /assets/images/particulares.jpg
+  image-avif: /assets/images/particulares.avif
   price: 750
   duracion: 3 sesiones de 60 minutos
   category: Educación básica
@@ -20,6 +22,7 @@
   title: Talleres
   description: Explicación y práctica de temas de forma dinámica diseñada para grupos.<br><br>Temas relacionados con las asignaturas de español y matemáticas, con el objetivo de que los estudiantes logren las competencias y aprendizajes esperados según su grado.
   image: /assets/images/talleres.jpg
+  image-avif: /assets/images/talleres.avif
   price: 2000
   duracion: 5 sesiones de 60 minutos
   category: Educación básica
@@ -28,6 +31,7 @@
   title: Curso de preparación para ingreso a primaria
   description: Enseñanza de los conocimientos básicos para ingresar a educación primaria desde 3ro de preescolar.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para el manejo de los aprendizajes requeridos para ingresar a 1ro de primaria.
   image: /assets/images/curso-ingreso-primaria.jpg
+  image-avif: /assets/images/curso-ingreso-primaria.avif
   price: 350
   duracion: Sesión de 90 minutos
   category: Cursos
@@ -36,6 +40,7 @@
   title: LSM
   description: Enseñanza de la lengua de señas mexicana<br><br>Clases dinámicas con el propósito de comunicarse de forma básica con personas sordas.<br><br>Sesiones en línea de 2 horas
   image: /assets/images/curso-lsm.jpg
+  image-avif: /assets/images/curso-lsm.avif
   price: 6000
   duracion: Sesión de 120 minutos
   category: Cursos
@@ -44,6 +49,7 @@
   title: Evaluación anual general
   description: Evaluación en línea del grado escolar cursado para conocer los conocimientos previos y aprovechamiento obtenido.<br><br>Evaluación por ciclo escolar completo.
   image: /assets/images/evaluacion-anual.jpg
+  image-avif: /assets/images/evaluacion-anual.avif
   price: 600
   duracion: Examen disponible durante 120 minutos
   category: Diagnósticos
@@ -52,6 +58,7 @@
   title: Evaluación trimestral general
   description: Evaluación en línea de un trimestre de un grado escolar.<br><br>Se aplica sobre todas las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
   image: /assets/images/evaluacion-trimestral.jpg
+  image-avif: /assets/images/evaluacion-trimestral.avif
   price: 600
   duracion: Examen disponible durante 120 minutos
   category: Diagnósticos
@@ -60,6 +67,7 @@
   title: Evaluación por asignatura
   description: Evaluación en línea de una asignatura específica de un grado escolar en un trimestre.<br><br>Se aplica sobre una de las materias que componen el grado (español, lengua materna, matemáticas, ciencias naturales, conocimiento del medio, historia, geografía, formación cívica y ética).
   image: /assets/images/evaluacion-asignatura.jpg
+  image-avif: /assets/images/evaluacion-asignatura.avif
   price: 200
   duracion: Examen disponible durante 120 minutos
   category: Diagnósticos
