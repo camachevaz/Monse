@@ -44,7 +44,10 @@
 >
   <div class="modal-dialog" role="document">
     <div class="modal-content">
-      <img src="{{include.image}}" alt="{{include.title}}" />
+      <picture>
+        <source type="image/avif" srcset="{{include.image-avif}}">
+        <img src="{{include.image}}" alt="{{include.title}}" />
+      </picture>
       <div class="modal-header">
         <h5 class="modal-title" id="exampleModalLabel">{{include.title}}</h5>
       </div>
