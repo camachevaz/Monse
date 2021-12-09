@@ -8,6 +8,7 @@
 
     <div class="row justify-content-center">
       {% for item in site.data.products limit: 3 %}
+      {% if item.destacado == true %}
       <div class="product col-md-4">
         <div class="card shadow border-0">
           <picture>
@@ -27,6 +28,7 @@
           </div>
         </div>
       </div>
+      {% endif %}
 
       <!-- Modal -->
       <div class="modal fade" id="id-{{item.id}}" tabindex="-1" role="dialog" aria-labelledby="id-{{item.id}}" aria-hidden="true">
