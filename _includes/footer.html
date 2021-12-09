@@ -10,8 +10,14 @@
         <div class="row">
         <div class="col-md-6">
           <div class="logo">
-            <a class="js-scroll-trigger" href="#page-top">{% if site.data.main.title %}{{site.data.main.title}}{% endif %}
-            {% if site.data.main.logo %}<span><img height="{{site.data.main.logo-height}}" src="{{site.data.main.logo}}" alt="{{site.data.main.title}}"></span>{% endif %}</a>
+            {% if site.data.main.title %}
+              {{site.data.main.title}}
+            {% endif %}
+            {% if site.data.main.logo %}
+              <span>
+                <img height="{{site.data.main.logo-height}}" src="{{site.data.main.logo}}" alt="{{site.data.main.title}}">
+              </span> parte de <a href="https://asesoreducativo.mx/">CHEE asesores educativos</a>
+            {% endif %}
             </div>
             <p>{{site.data.main.about-footer}}</p>
             <ul class="social-icon">
