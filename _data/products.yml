@@ -1,6 +1,6 @@
 - id: 1
   title: Asesoría
-  destacado: false
+  destacado: true
   description: Apoyo y práctica de un tema en el que se explica y se resuelven dudas de alguna asignatura de español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.
   image: /assets/images/asesoria.jpg
   image-avif: /assets/images/asesoria.avif
@@ -11,7 +11,7 @@
 
 - id: 2
   title: Clases particulares
-  destacado: false
+  destacado: true
   description: Explicación y práctica, resolver dudas sobre algún tema relacionado con las asignaturas de primaria (español, lengua materna, conocimiento del medio, matemáticas, ciencias naturales, historia, geografía o formación cívica y ética).<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para mejor entendimiento y práctica del tema.
   image: /assets/images/particulares.jpg
   image-avif: /assets/images/particulares.avif
@@ -32,7 +32,7 @@
 
 - id: 4
   title: Curso de preparación para ingreso a primaria
-  destacado: false
+  destacado: true
   description: Enseñanza de los conocimientos básicos para ingresar a educación primaria desde 3ro de preescolar.<br><br>Sesión activa y dinámica en donde se incluyen ejercicios y material de apoyo, además del uso de pizarrón, videos y juegos para el manejo de los aprendizajes requeridos para ingresar a 1ro de primaria.
   image: /assets/images/curso-ingreso-primaria.jpg
   image-avif: /assets/images/curso-ingreso-primaria.avif
