@@ -10,18 +10,11 @@
         <div class="row">
         <div class="col-md-6">
           <span>
-            <img height="{{site.data.main.logo-height}}" src="{{site.data.main.logo}}" alt="{{site.data.main.title}}">
-          </span> <span class="notaFooter"></sp>parte de <a href="https://asesoreducativo.mx/">CHEE asesores educativos</a></span>
-          <div class="logo">
             {% if site.data.main.title %}
               {{site.data.main.title}}
             {% endif %}
-            {% if site.data.main.logo %}
-              <span>
-                <img height="{{site.data.main.logo-height}}" src="{{site.data.main.logo}}" alt="{{site.data.main.title}}">
-              </span> <span class="notaFooter"></sp>parte de <a href="https://asesoreducativo.mx/">CHEE asesores educativos</a></span>
-            {% endif %}
-            </div>
+            <img height="{{site.data.main.logo-height}}" src="{{site.data.main.logo}}" alt="{{site.data.main.title}}">
+          </span> <span class="notaFooter"></sp>parte de <a href="https://asesoreducativo.mx/">CHEE asesores educativos</a></span>
             <p>{{site.data.main.about-footer}}</p>
             <ul class="social-icon">
               {% if site.data.main.facebook %}
