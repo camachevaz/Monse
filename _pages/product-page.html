@@ -15,8 +15,10 @@ published: true
         <div class="btn-group sort-by-button-group pull-right">
           <button class="button  btn btn-outline-secondary" data-filter="*">Limpiar filtro</button>
   				<button class="btn btn-outline-primary" data-sort-direction="asc" data-sort-value="name" type="button">Por nombre ⇅</button>
-  				<button class="btn btn-outline-primary" data-sort-direction="asc" data-sort-value="category" type="button">Por categoría ⇅</button>
-  				<button class="btn btn-outline-primary" data-sort-direction="asc" data-sort-value="price" type="button">Por precio ⇅</button>
+  				{% comment %}
+          <button class="btn btn-outline-primary" data-sort-direction="asc" data-sort-value="category" type="button">Por categoría ⇅</button>
+  				{% endcomment %}
+          <button class="btn btn-outline-primary" data-sort-direction="asc" data-sort-value="price" type="button">Por precio ⇅</button>
     			</div><!-- /.btn-group -->
         </div>
     </div>
