@@ -25,9 +25,6 @@ published: true
     {% for item in site.data.products reversed %}
       <div class="product element-item col-lg-4 col-md-6 col-sm-12">
         <div class="card shadow border-0" id="servicios">
-          <div class="card-title">
-            <p><span class="badge badge-primary">{{item.category}}</span></p>
-          </div>
           <img src="{{item.image}}" alt="{{item.title}}" data-toggle="modal" data-target="#id-{{item.id}}">
           <div class="card-body" data-toggle="modal" data-target="#id-{{item.id}}">
               <h3 class="name">{{item.title}}</h3>
